@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21",
+ "generated": "2026-11-22",
  "source": "https://agentskillshub.top/best/ai-reverse-engineering/",
  "kinds": [
   {
@@ -43,7 +43,7 @@
   {
    "repo_full_name": "morluto/rea",
    "path": null,
-   "stars": 472295,
+   "stars": 473626,
    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
    "kind": "mcp",
    "security_grade": "safe",
@@ -63,7 +63,7 @@
   {
    "repo_full_name": "LaurieWired/GhidraMCP",
    "path": null,
-   "stars": 11996,
+   "stars": 12004,
    "description": "MCP Server for Ghidra",
    "kind": "mcp",
    "security_grade": "safe",
@@ -73,7 +73,7 @@
   {
    "repo_full_name": "bethington/ghidra-mcp",
    "path": null,
-   "stars": 6310,
+   "stars": 6323,
    "description": "Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment.",
    "kind": "mcp",
    "security_grade": "safe",
@@ -83,7 +83,7 @@
   {
    "repo_full_name": "duty1g/x64dbg-mcp-server",
    "path": null,
-   "stars": 2851,
+   "stars": 2857,
    "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
    "kind": "mcp",
    "security_grade": "safe",
@@ -93,7 +93,7 @@
   {
    "repo_full_name": "angusdevgo/Seep-Reverse-Lab",
    "path": null,
-   "stars": 2267,
+   "stars": 2271,
    "description": "Agent-Native multi-platform reverse engineering and CWE-602 client-side authorization audit workbench.",
    "kind": "mcp",
    "security_grade": "safe",
@@ -103,7 +103,7 @@
   {
    "repo_full_name": "P4nda0s/IDA-NO-MCP",
    "path": null,
-   "stars": 2079,
+   "stars": 2080,
    "description": "Say goodbye to the complex, verbose, and laggy interaction mode of IDA Pro MCP",
    "kind": "mcp",
    "security_grade": "safe",
@@ -113,7 +113,7 @@
   {
    "repo_full_name": "HexRaysSA/ida-mcp",
    "path": null,
-   "stars": 1660,
+   "stars": 1665,
    "description": "Official Hex-Rays IDA MCP Server.",
    "kind": "mcp",
    "security_grade": "safe",
@@ -143,12 +143,22 @@
   {
    "repo_full_name": "cyberkaida/reverse-engineering-assistant",
    "path": null,
-   "stars": 972,
+   "stars": 974,
    "description": "MCP server for reverse engineering tasks in Ghidra 👩‍💻",
    "kind": "mcp",
    "security_grade": "safe",
    "language": "Java",
    "license": "Apache-2.0"
+  },
+  {
+   "repo_full_name": "blacktop/ida-mcp-rs",
+   "path": null,
+   "stars": 911,
+   "description": "Headless IDA Pro MCP Server",
+   "kind": "mcp",
+   "security_grade": "safe",
+   "language": "Rust",
+   "license": "MIT"
   },
   {
    "repo_full_name": "symgraph/IDAssist",
@@ -158,16 +168,6 @@
    "kind": "mcp",
    "security_grade": "safe",
    "language": "Python",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "blacktop/ida-mcp-rs",
-   "path": null,
-   "stars": 909,
-   "description": "Headless IDA Pro MCP Server",
-   "kind": "mcp",
-   "security_grade": "safe",
-   "language": "Rust",
    "license": "MIT"
   },
   {
@@ -213,7 +213,7 @@
   {
    "repo_full_name": "Wasdubya/x64dbgMCP",
    "path": null,
-   "stars": 609,
+   "stars": 611,
    "description": "Model Context Protocol for x64dbg & x32dbg",
    "kind": "mcp",
    "security_grade": "safe",
@@ -293,7 +293,7 @@
   {
    "repo_full_name": "radareorg/radare2-mcp",
    "path": null,
-   "stars": 366,
+   "stars": 367,
    "description": "MCP stdio server for radare2",
    "kind": "mcp",
    "security_grade": "safe",
@@ -313,7 +313,7 @@
   {
    "repo_full_name": "Recurse-Labs/recurse",
    "path": null,
-   "stars": 311,
+   "stars": 312,
    "description": "AI Native IDE for reverse engineering",
    "kind": "mcp",
    "security_grade": "safe",
@@ -343,7 +343,7 @@
   {
    "repo_full_name": "index-login/MobileRE-Skill",
    "path": null,
-   "stars": 281,
+   "stars": 283,
    "description": "AI Agent 驱动的移动端逆向技能集：Frida hook、一键脱壳、反检测绕过、内存 DEX dump、Ghidra MCP 符号/结构恢复。AI-agent skill system for mobile reverse engineering.",
    "kind": "mcp",
    "security_grade": "safe",
@@ -411,24 +411,24 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "banteg/bn",
-   "path": null,
-   "stars": 223,
-   "description": "binary ninja cli for coding agents",
-   "kind": "mcp",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "bilieebiliee1-design/SOMCP",
    "path": null,
-   "stars": 222,
+   "stars": 223,
    "description": "SOMCP 是一个运行在 Android 手机上的本地 SO 逆向 MCP 服务器。它通过 Streamable HTTP 暴露 MCP 工具，让客户端可以在手机上完成 ELF 结构分析、Rizin 反汇编/分析、LIEF ELF 修复/重写、补丁会话、构建导出、Cloudflare Tunnel 暴露和可选 APK MCP 桥接",
    "kind": "mcp",
    "security_grade": "safe",
    "language": "Kotlin",
    "license": "AGPL-3.0"
+  },
+  {
+   "repo_full_name": "banteg/bn",
+   "path": null,
+   "stars": 222,
+   "description": "binary ninja cli for coding agents",
+   "kind": "mcp",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
   },
   {
    "repo_full_name": "biniamf/ai-reverse-engineering",
@@ -513,7 +513,7 @@
   {
    "repo_full_name": "13bm/GhidraMCP",
    "path": null,
-   "stars": 150,
+   "stars": 151,
    "description": "Active Socket based MCP Server for Ghidra",
    "kind": "mcp",
    "security_grade": "safe",
@@ -783,7 +783,7 @@
   {
    "repo_full_name": "zinja-coder/jadx-ai-mcp",
    "path": null,
-   "stars": 3023,
+   "stars": 3024,
    "description": "Plugin for JADX to integrate MCP server",
    "kind": "mobile",
    "security_grade": "safe",
@@ -793,7 +793,7 @@
   {
    "repo_full_name": "lkimuk/ReArk",
    "path": null,
-   "stars": 987,
+   "stars": 990,
    "description": "An intelligent reverse engineering and AI-assisted analysis tool for HarmonyOS NEXT (HAP/APP/ABC), Android (APK/AAB), iOS (IPA), and native PE/ELF/Mach-O binaries.",
    "kind": "mobile",
    "security_grade": "safe",
@@ -813,7 +813,7 @@
   {
    "repo_full_name": "zinja-coder/apktool-mcp-server",
    "path": null,
-   "stars": 716,
+   "stars": 717,
    "description": "A MCP Server for APK Tool (Part of Android Reverse Engineering MCP Suites)",
    "kind": "mobile",
    "security_grade": "safe",
@@ -823,7 +823,7 @@
   {
    "repo_full_name": "dnakov/frida-mcp",
    "path": null,
-   "stars": 469,
+   "stars": 470,
    "description": "MCP stdio server for frida",
    "kind": "mobile",
    "security_grade": "safe",
@@ -843,7 +843,7 @@
   {
    "repo_full_name": "kggzs/ApkMCP-Auto",
    "path": null,
-   "stars": 233,
+   "stars": 234,
    "description": "本项目是一个 Android 逆向工程工具集合，通过 MCP (Model Context Protocol) 协议将 AI 助手（如 Claude）与专业的 Android 反编译工具连接起来，实现智能化的 APK 分析与修改。",
    "kind": "mobile",
    "security_grade": "safe",
@@ -853,7 +853,7 @@
   {
    "repo_full_name": "1013503897/jadx-headless-mcp",
    "path": null,
-   "stars": 180,
+   "stars": 182,
    "description": "Headless MCP server for Android APK static analysis, built directly on jadx-core. No JADX GUI required.",
    "kind": "mobile",
    "security_grade": "safe",
@@ -883,7 +883,7 @@
   {
    "repo_full_name": "asLody/dexdec",
    "path": null,
-   "stars": 136,
+   "stars": 137,
    "description": "Fast, accurate Android decompilation for humans and AI agents.",
    "kind": "mobile",
    "security_grade": "safe",
@@ -913,7 +913,7 @@
   {
    "repo_full_name": "TheQmaks/areclaw",
    "path": null,
-   "stars": 76,
+   "stars": 77,
    "description": "Android Reverse Engineering Command-Line Automation Workspace. AI-driven security analysis with Claude Code.",
    "kind": "mobile",
    "security_grade": "safe",
@@ -963,7 +963,7 @@
   {
    "repo_full_name": "WhiteNightShadow/wx-mp-mcp",
    "path": null,
-   "stars": 307,
+   "stars": 308,
    "description": "微信小程序逆向 MCP — 在线实时解包 + AI 静态分析还原接口签名/加密，产出本地 Node.js 直接能跑的脚本（零侵入，不碰微信进程）",
    "kind": "web",
    "security_grade": "safe",
@@ -973,7 +973,7 @@
   {
    "repo_full_name": "wuji66dde/jshook-skill",
    "path": null,
-   "stars": 273,
+   "stars": 274,
    "description": "  AI-powered JS reverse engineering: deobfuscation, crypto detection, CDP debugging, hook injection, anti-detection |   AI驱动JS逆向：反混淆、加密识别、CDP调试、Hook注入、反检测",
    "kind": "web",
    "security_grade": "safe",
@@ -993,7 +993,7 @@
   {
    "repo_full_name": "zhaoxuya520/reverse-skill",
    "path": null,
-   "stars": 45024,
+   "stars": 45072,
    "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
    "kind": "skill",
    "security_grade": "safe",
@@ -1013,7 +1013,7 @@
   {
    "repo_full_name": "Dryxio/reagent",
    "path": null,
-   "stars": 2457,
+   "stars": 2458,
    "description": "Reconstruct and validate C/C++ code from compiled programs with AI.",
    "kind": "skill",
    "security_grade": "safe",
@@ -1033,7 +1033,7 @@
   {
    "repo_full_name": "2akouwu/reverify",
    "path": null,
-   "stars": 1350,
+   "stars": 1351,
    "description": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
    "kind": "skill",
    "security_grade": "safe",
@@ -1043,7 +1043,7 @@
   {
    "repo_full_name": "CreditTone/android-reverse-engineering-skill",
    "path": null,
-   "stars": 579,
+   "stars": 581,
    "description": "这是一套专为 Codex 适配的 Android 逆向分析 skill，支持在 Codex 会话中反编译 APK、XAPK、JAR、AAR，并结合 jadx、Fernflower/Vineflower 梳理   Manifest、包结构、网络层和调用链。它可辅助提取接口、URL、鉴权头、token 与签名逻辑，并提供 Frida、抓包、JNI/SO 分析前的静态侦察方法，适合接口分   析、安全研究和授权测试。",
    "kind": "skill",
    "security_grade": "safe",
@@ -1073,7 +1073,7 @@
   {
    "repo_full_name": "miunasu/IDA-Skill",
    "path": null,
-   "stars": 240,
+   "stars": 241,
    "description": "使用skill让 AI Agent 像安全分析师一样分析恶意样本 | AI Agent skill for automated malware analysis using IDA Pro",
    "kind": "skill",
    "security_grade": "safe",
@@ -1143,7 +1143,7 @@
   {
    "repo_full_name": "blacktop/ipsw-skill",
    "path": null,
-   "stars": 107,
+   "stars": 108,
    "description": "A SKILL.md for ipsw",
    "kind": "skill",
    "security_grade": "safe",
@@ -1163,7 +1163,7 @@
   {
    "repo_full_name": "N0zoM1z0/dx-ball",
    "path": null,
-   "stars": 106,
+   "stars": 108,
    "description": "Reconstructing DX-Ball 1.07 with REA, backed by original-x86 differential tests and pinned MSVC byte-exact oracles.",
    "kind": "case",
    "security_grade": "safe",
