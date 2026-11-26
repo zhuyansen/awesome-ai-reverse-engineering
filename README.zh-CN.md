@@ -44,9 +44,9 @@
 
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
-| [morluto/rea](https://github.com/morluto/rea) | 478.2k | 用 agent 逆向分析任意对象，从应用行为到原生二进制。 | [SAFE](https://agentskillshub.top/skill/morluto/rea/) |
+| [morluto/rea](https://github.com/morluto/rea) | 479.5k | 用 agent 逆向分析任意对象，从应用行为到原生二进制。 | [SAFE](https://agentskillshub.top/skill/morluto/rea/) |
 | [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) | 13.6k | 通过 MCP 连接 IDA Pro 与语言模型的 AI 逆向工程助手。 | [SAFE](https://agentskillshub.top/skill/mrexodia/ida-pro-mcp/) |
-| [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) | 12.0k | MCP Server for Ghidra | [SAFE](https://agentskillshub.top/skill/LaurieWired/GhidraMCP/) |
+| [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) | 12.1k | MCP Server for Ghidra | [SAFE](https://agentskillshub.top/skill/LaurieWired/GhidraMCP/) |
 | [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp) | 6.4k | Ghidra MCP Server：面向 AI 逆向工程，支持 GUI 插件、无头服务器、延迟加载、批量操作、Ghidra Server 集成和 Docker… | [SAFE](https://agentskillshub.top/skill/bethington/ghidra-mcp/) |
 | [duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server) | 2.9k | x64dbg-MCP Server是x64dbg的原生MCP插件，通过HTTP控制x64dbg，支持断点、单步、读内存和寄存器转储。 | [SAFE](https://agentskillshub.top/skill/duty1g/x64dbg-mcp-server/) |
 | [angusdevgo/Seep-Reverse-Lab](https://github.com/angusdevgo/Seep-Reverse-Lab) | 2.3k | Agent 原生多平台逆向工程与 CWE-602 客户端授权审计工作台 | [SAFE](https://agentskillshub.top/skill/angusdevgo/Seep-Reverse-Lab/) |
@@ -54,44 +54,44 @@
 | [HexRaysSA/ida-mcp](https://github.com/HexRaysSA/ida-mcp) | 1.7k | Official Hex-Rays IDA MCP Server. | [SAFE](https://agentskillshub.top/skill/HexRaysSA/ida-mcp/) |
 | [LING71671/open-reverselab](https://github.com/LING71671/open-reverselab) | 1.4k | 开源 AI 逆向工程 agent 平台及 MCP server，支持 Ghidra、Frida、x64dbg 和 Rizin，用于 PE/APK/二进制分析、… | [SAFE](https://agentskillshub.top/skill/LING71671/open-reverselab/) |
 | [mrphrazer/reverser_ai](https://github.com/mrphrazer/reverser_ai) | 1.2k | 在消费级硬件上利用本地大语言模型提供自动化逆向工程辅助。 | [SAFE](https://agentskillshub.top/skill/mrphrazer/reverser_ai/) |
-| [cyberkaida/reverse-engineering-assistant](https://github.com/cyberkaida/reverse-engineering-assistant) | 978 | 用于在 Ghidra 中进行逆向工程任务的 MCP 服务器 | [SAFE](https://agentskillshub.top/skill/cyberkaida/reverse-engineering-assistant/) |
+| [cyberkaida/reverse-engineering-assistant](https://github.com/cyberkaida/reverse-engineering-assistant) | 980 | 用于在 Ghidra 中进行逆向工程任务的 MCP 服务器 | [SAFE](https://agentskillshub.top/skill/cyberkaida/reverse-engineering-assistant/) |
 | [blacktop/ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs) | 913 | 无界面 IDA Pro MCP Server | [SAFE](https://agentskillshub.top/skill/blacktop/ida-mcp-rs/) |
 | [symgraph/IDAssist](https://github.com/symgraph/IDAssist) | 910 | AI 驱动的 IDA Pro 逆向工程插件 | [SAFE](https://agentskillshub.top/skill/symgraph/IDAssist/) |
 | [weirdmachine64/GhidraGPT](https://github.com/weirdmachine64/GhidraGPT) | 848 | 将 LLM 模型直接集成到 Ghidra，用于 AI 增强的逆向工程。 | [SAFE](https://agentskillshub.top/skill/weirdmachine64/GhidraGPT/) |
-| [symgraph/GhidrAssistMCP](https://github.com/symgraph/GhidrAssistMCP) | 821 | Ghidra 的原生 MCP 服务器扩展 | [SAFE](https://agentskillshub.top/skill/symgraph/GhidrAssistMCP/) |
-| [AgentSmithers/x64DbgMCPServer](https://github.com/AgentSmithers/x64DbgMCPServer) | 751 | 用 C# 编写的 x64DbgMCPServer，支持 Claude、Windsurf 和 Cursor | [SAFE](https://agentskillshub.top/skill/AgentSmithers/x64DbgMCPServer/) |
-| [buzzer-re/Rikugan](https://github.com/buzzer-re/Rikugan) | 713 | 用于 IDA Pro 和 Binary Ninja 的逆向工程 agent | [SAFE](https://agentskillshub.top/skill/buzzer-re/Rikugan/) |
-| [Wasdubya/x64dbgMCP](https://github.com/Wasdubya/x64dbgMCP) | 614 | 用于 x64dbg 和 x32dbg 的 Model Context Protocol | [SAFE](https://agentskillshub.top/skill/Wasdubya/x64dbgMCP/) |
-| [SetsunaYukiOvO/x64dbg-mcp](https://github.com/SetsunaYukiOvO/x64dbg-mcp) | 561 | x64dbg 调试器的 MCP server 插件，供 AI agent 和外部工具通过 HTTP/SSE 控制调试 | [SAFE](https://agentskillshub.top/skill/SetsunaYukiOvO/x64dbg-mcp/) |
+| [symgraph/GhidrAssistMCP](https://github.com/symgraph/GhidrAssistMCP) | 822 | Ghidra 的原生 MCP 服务器扩展 | [SAFE](https://agentskillshub.top/skill/symgraph/GhidrAssistMCP/) |
+| [AgentSmithers/x64DbgMCPServer](https://github.com/AgentSmithers/x64DbgMCPServer) | 752 | 用 C# 编写的 x64DbgMCPServer，支持 Claude、Windsurf 和 Cursor | [SAFE](https://agentskillshub.top/skill/AgentSmithers/x64DbgMCPServer/) |
+| [buzzer-re/Rikugan](https://github.com/buzzer-re/Rikugan) | 714 | 用于 IDA Pro 和 Binary Ninja 的逆向工程 agent | [SAFE](https://agentskillshub.top/skill/buzzer-re/Rikugan/) |
+| [Wasdubya/x64dbgMCP](https://github.com/Wasdubya/x64dbgMCP) | 615 | 用于 x64dbg 和 x32dbg 的 Model Context Protocol | [SAFE](https://agentskillshub.top/skill/Wasdubya/x64dbgMCP/) |
+| [SetsunaYukiOvO/x64dbg-mcp](https://github.com/SetsunaYukiOvO/x64dbg-mcp) | 563 | x64dbg 调试器的 MCP server 插件，供 AI agent 和外部工具通过 HTTP/SSE 控制调试 | [SAFE](https://agentskillshub.top/skill/SetsunaYukiOvO/x64dbg-mcp/) |
 | [MxIris-Reverse-Engineering/ida-mcp-server](https://github.com/MxIris-Reverse-Engineering/ida-mcp-server) | 550 | 用于 IDA 的 Model Context Protocol 服务器 | [SAFE](https://agentskillshub.top/skill/MxIris-Reverse-Engineering/ida-mcp-server/) |
 | [MeroZemory/ida-multi-mcp](https://github.com/MeroZemory/ida-multi-mcp) | 475 | 多实例 IDA Pro MCP 服务器——通过单个 MCP 端点同时分析多个二进制文件。 | [SAFE](https://agentskillshub.top/skill/MeroZemory/ida-multi-mcp/) |
 | [llnl/OGhidra](https://github.com/llnl/OGhidra) | 473 | OGhidra 通过 Ollama 将大语言模型接入 Ghidra，支持自然语言二进制分析及对话查询和复杂逆向流程自动化。 | [SAFE](https://agentskillshub.top/skill/llnl/OGhidra/) |
-| [clearbluejar/pyghidra-mcp](https://github.com/clearbluejar/pyghidra-mcp) | 469 | Python 命令行 Ghidra MCP | [SAFE](https://agentskillshub.top/skill/clearbluejar/pyghidra-mcp/) |
-| [fosdickio/binary_ninja_mcp](https://github.com/fosdickio/binary_ninja_mcp) | 463 | 包含 MCP 服务器的 Binary Ninja 插件，可与 LLM/MCP 客户端集成。 | [SAFE](https://agentskillshub.top/skill/fosdickio/binary_ninja_mcp/) |
-| [cellebrite-labs/ghidra-rpc](https://github.com/cellebrite-labs/ghidra-rpc) | 401 | Ghidra 的智能体逆向工程 skill | [SAFE](https://agentskillshub.top/skill/cellebrite-labs/ghidra-rpc/) |
+| [clearbluejar/pyghidra-mcp](https://github.com/clearbluejar/pyghidra-mcp) | 470 | Python 命令行 Ghidra MCP | [SAFE](https://agentskillshub.top/skill/clearbluejar/pyghidra-mcp/) |
+| [fosdickio/binary_ninja_mcp](https://github.com/fosdickio/binary_ninja_mcp) | 464 | 包含 MCP 服务器的 Binary Ninja 插件，可与 LLM/MCP 客户端集成。 | [SAFE](https://agentskillshub.top/skill/fosdickio/binary_ninja_mcp/) |
+| [cellebrite-labs/ghidra-rpc](https://github.com/cellebrite-labs/ghidra-rpc) | 402 | Ghidra 的智能体逆向工程 skill | [SAFE](https://agentskillshub.top/skill/cellebrite-labs/ghidra-rpc/) |
 | [radareorg/radare2-mcp](https://github.com/radareorg/radare2-mcp) | 367 | radare2 的 MCP stdio 服务器 | [SAFE](https://agentskillshub.top/skill/radareorg/radare2-mcp/) |
 | [mrphrazer/agentic-malware-analysis](https://github.com/mrphrazer/agentic-malware-analysis) | 336 | 面向 Claude Code 和 Codex CLI 的智能体恶意软件分析环境，集成 MCP 反汇编器、逆向工具和结构化工作流。 | [SAFE](https://agentskillshub.top/skill/mrphrazer/agentic-malware-analysis/) |
 | [Recurse-Labs/recurse](https://github.com/Recurse-Labs/recurse) | 316 | 用于逆向工程的 AI 原生 IDE | [SAFE](https://agentskillshub.top/skill/Recurse-Labs/recurse/) |
-| [index-login/MobileRE-Skill](https://github.com/index-login/MobileRE-Skill) | 291 | AI agent 驱动的移动端逆向 skill：Frida hook、脱壳、反检测绕过、内存 DEX dump、Ghidra MCP 符号/结构恢复。 | [SAFE](https://agentskillshub.top/skill/index-login/MobileRE-Skill/) |
+| [index-login/MobileRE-Skill](https://github.com/index-login/MobileRE-Skill) | 293 | AI agent 驱动的移动端逆向 skill：Frida hook、脱壳、反检测绕过、内存 DEX dump、Ghidra MCP 符号/结构恢复。 | [SAFE](https://agentskillshub.top/skill/index-login/MobileRE-Skill/) |
 | [namename333/idapromcp_333](https://github.com/namename333/idapromcp_333) | 290 | 基于 mrexodia/ida-pro-mcp 二次开发，精简功能，适用于大型项目逆向，占用更少资源和 token | [SAFE](https://agentskillshub.top/skill/namename333/idapromcp_333/) |
 | [saileaxh/iida-mcp](https://github.com/saileaxh/iida-mcp) | 285 | 采用新架构、性能更强并支持内核访问的 ida-mcp 工具 | [SAFE](https://agentskillshub.top/skill/saileaxh/iida-mcp/) |
 | [akiselev/ghidra-cli](https://github.com/akiselev/ghidra-cli) | 268 | 从命令行自动执行 Ghidra 逆向工程：无头分析、反编译并为 Claude Code 等 AI agent 输出结构化 JSON | [SAFE](https://agentskillshub.top/skill/akiselev/ghidra-cli/) |
 | [JameZUK/Arkana](https://github.com/JameZUK/Arkana) | 264 | Arkana：用一个 AI 提示词进行恶意软件分析，提供 250+ 个 MCP 工具，支持 Claude Code 或其他 MCP | [SAFE](https://agentskillshub.top/skill/JameZUK/Arkana/) |
 | [mrphrazer/binary-ninja-headless-mcp](https://github.com/mrphrazer/binary-ninja-headless-mcp) | 264 | 无界面 Binary Ninja MCP 服务器，通过 180 个工具为 AI agents 提供逆向工程能力。 | [SAFE](https://agentskillshub.top/skill/mrphrazer/binary-ninja-headless-mcp/) |
 | [Captain-AI-Hub/IDA-MCP](https://github.com/Captain-AI-Hub/IDA-MCP) | 254 | IDA MCP | [SAFE](https://agentskillshub.top/skill/Captain-AI-Hub/IDA-MCP/) |
-| [sjkim1127/Reversecore_MCP](https://github.com/sjkim1127/Reversecore_MCP) | 225 | 面向安全的MCP服务器，支持AI agent自动化逆向工程、恶意软件分析、取证、漏洞研究和SAST，基于Radare2、YARA、LIEF、Capstone等。 | [SAFE](https://agentskillshub.top/skill/sjkim1127/Reversecore_MCP/) |
+| [sjkim1127/Reversecore_MCP](https://github.com/sjkim1127/Reversecore_MCP) | 226 | 面向安全的MCP服务器，支持AI agent自动化逆向工程、恶意软件分析、取证、漏洞研究和SAST，基于Radare2、YARA、LIEF、Capstone等。 | [SAFE](https://agentskillshub.top/skill/sjkim1127/Reversecore_MCP/) |
+| [bilieebiliee1-design/SOMCP](https://github.com/bilieebiliee1-design/SOMCP) | 225 | SOMCP：Android 本地 SO 逆向 MCP，支持 ELF 分析、Rizin 反汇编、LIEF 修复和 APK MCP 桥接。 | [SAFE](https://agentskillshub.top/skill/bilieebiliee1-design/SOMCP/) |
 | [OwenPawl/cerberus-re-skill](https://github.com/OwenPawl/cerberus-re-skill) | 224 | cerberus-re 是面向 Apple 的本地逆向工作台，用于围绕 Ghidra、LLDB 和 Frida 构建可复用的静态、动态与插桩分析流程。 | [SAFE](https://agentskillshub.top/skill/OwenPawl/cerberus-re-skill/) |
-| [bilieebiliee1-design/SOMCP](https://github.com/bilieebiliee1-design/SOMCP) | 224 | SOMCP：Android 本地 SO 逆向 MCP，支持 ELF 分析、Rizin 反汇编、LIEF 修复和 APK MCP 桥接。 | [SAFE](https://agentskillshub.top/skill/bilieebiliee1-design/SOMCP/) |
 | [banteg/bn](https://github.com/banteg/bn) | 222 | 面向编码 agent 的 Binary Ninja CLI | [SAFE](https://agentskillshub.top/skill/banteg/bn/) |
 | [dariushoule/x64dbg-skills](https://github.com/dariushoule/x64dbg-skills) | 216 | 为 Claude Code 提供 x64dbg 调试器自动化技能的插件 | [SAFE](https://agentskillshub.top/skill/dariushoule/x64dbg-skills/) |
 | [biniamf/ai-reverse-engineering](https://github.com/biniamf/ai-reverse-engineering) | 214 | 使用 AI 辅助的 Ghidra 逆向工程 | [SAFE](https://agentskillshub.top/skill/biniamf/ai-reverse-engineering/) |
 | [mrphrazer/ghidra-headless-mcp](https://github.com/mrphrazer/ghidra-headless-mcp) | 200 | 无头 Ghidra MCP 服务器，为 AI agent 提供深入的逆向工程能力。 | [SAFE](https://agentskillshub.top/skill/mrphrazer/ghidra-headless-mcp/) |
 | [taida957789/ida-mcp-server-plugin](https://github.com/taida957789/ida-mcp-server-plugin) | 190 | 为 cursor / claude 提供 MCP SSE 服务器的 IDA Pro 插件 | [SAFE](https://agentskillshub.top/skill/taida957789/ida-mcp-server-plugin/) |
 | [jtsylve/re-mcp](https://github.com/jtsylve/re-mcp) | 181 | 用于 IDA Pro 和 Ghidra 的无界面 MCP 服务器 | [SAFE](https://agentskillshub.top/skill/jtsylve/re-mcp/) |
-| [Fausto-404/ai-mobile-reverse-skills](https://github.com/Fausto-404/ai-mobile-reverse-skills) | 178 | 移动安全6阶段总控skill：调度APK、流量/代码、SO/JNI、加密漏洞、验证报告；支持JADX、Burp/Yakit、IDA/Ghidra MCP。 | [SAFE](https://agentskillshub.top/skill/Fausto-404/ai-mobile-reverse-skills/) |
-| [axelmierczuk/tenrec](https://github.com/axelmierczuk/tenrec) | 177 | 无界面、可扩展、多会话的 IDA Pro MCP 框架。 | [SAFE](https://agentskillshub.top/skill/axelmierczuk/tenrec/) |
-| [Claude-Reverser/IDA-instances-MCP](https://github.com/Claude-Reverser/IDA-instances-MCP) | 153 | ida-pro-mcp 定制版——用于托管无头 IDA Pro 实例的稳定性增强 MCP 服务器 | [SAFE](https://agentskillshub.top/skill/Claude-Reverser/IDA-instances-MCP/) |
+| [Fausto-404/ai-mobile-reverse-skills](https://github.com/Fausto-404/ai-mobile-reverse-skills) | 179 | 移动安全6阶段总控skill：调度APK、流量/代码、SO/JNI、加密漏洞、验证报告；支持JADX、Burp/Yakit、IDA/Ghidra MCP。 | [SAFE](https://agentskillshub.top/skill/Fausto-404/ai-mobile-reverse-skills/) |
+| [axelmierczuk/tenrec](https://github.com/axelmierczuk/tenrec) | 176 | 无界面、可扩展、多会话的 IDA Pro MCP 框架。 | [SAFE](https://agentskillshub.top/skill/axelmierczuk/tenrec/) |
 | [13bm/GhidraMCP](https://github.com/13bm/GhidraMCP) | 151 | 基于 Active Socket 的 Ghidra MCP 服务器 | [SAFE](https://agentskillshub.top/skill/13bm/GhidraMCP/) |
+| [Claude-Reverser/IDA-instances-MCP](https://github.com/Claude-Reverser/IDA-instances-MCP) | 151 | ida-pro-mcp 定制版——用于托管无头 IDA Pro 实例的稳定性增强 MCP 服务器 | [SAFE](https://agentskillshub.top/skill/Claude-Reverser/IDA-instances-MCP/) |
 | [bromoket/x64dbg_mcp](https://github.com/bromoket/x64dbg_mcp) | 142 | 用 AI 驱动 x64dbg。MCP server：23 个工具、153 个端点，支持断点、内存、反汇编、跟踪、反调试和 PE 转储。Claude/Curso… | [SAFE](https://agentskillshub.top/skill/bromoket/x64dbg_mcp/) |
 | [philsajdak/decyx](https://github.com/philsajdak/decyx) | 140 | Decyx：用于逆向工程和二进制分析的 AI Ghidra 扩展。 | [SAFE](https://agentskillshub.top/skill/philsajdak/decyx/) |
 | [WPeace-HcH/WPeGPT-Analyzer](https://github.com/WPeace-HcH/WPeGPT-Analyzer) | 110 | 可移植的逆向分析 SKILL 技能，驱动 IDA + WPeGPT 对 PE/ELF 进行轻量、全量和漏洞分析并输出报告，支持 SKILL 的 AI Agen… | [SAFE](https://agentskillshub.top/skill/WPeace-HcH/WPeGPT-Analyzer/) |
@@ -127,13 +127,13 @@
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
 | [zinja-coder/jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) | 3.0k | Plugin for JADX to integrate MCP server | [SAFE](https://agentskillshub.top/skill/zinja-coder/jadx-ai-mcp/) |
-| [lkimuk/ReArk](https://github.com/lkimuk/ReArk) | 995 | 面向 HarmonyOS NEXT（HAP/APP/ABC）、Android（APK/AAB）、iOS（IPA）及原生 PE/ELF/Mach-O 二进制文件… | [SAFE](https://agentskillshub.top/skill/lkimuk/ReArk/) |
-| [zinja-coder/jadx-mcp-server](https://github.com/zinja-coder/jadx-mcp-server) | 856 | JADX-AI Plugin 的 MCP 服务器 | [SAFE](https://agentskillshub.top/skill/zinja-coder/jadx-mcp-server/) |
-| [zinja-coder/apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server) | 717 | APK Tool 的 MCP Server（Android 逆向工程 MCP 套件组成部分） | [SAFE](https://agentskillshub.top/skill/zinja-coder/apktool-mcp-server/) |
+| [lkimuk/ReArk](https://github.com/lkimuk/ReArk) | 996 | 面向 HarmonyOS NEXT（HAP/APP/ABC）、Android（APK/AAB）、iOS（IPA）及原生 PE/ELF/Mach-O 二进制文件… | [SAFE](https://agentskillshub.top/skill/lkimuk/ReArk/) |
+| [zinja-coder/jadx-mcp-server](https://github.com/zinja-coder/jadx-mcp-server) | 860 | JADX-AI Plugin 的 MCP 服务器 | [SAFE](https://agentskillshub.top/skill/zinja-coder/jadx-mcp-server/) |
+| [zinja-coder/apktool-mcp-server](https://github.com/zinja-coder/apktool-mcp-server) | 718 | APK Tool 的 MCP Server（Android 逆向工程 MCP 套件组成部分） | [SAFE](https://agentskillshub.top/skill/zinja-coder/apktool-mcp-server/) |
 | [dnakov/frida-mcp](https://github.com/dnakov/frida-mcp) | 473 | Frida 的 MCP stdio 服务器 | [SAFE](https://agentskillshub.top/skill/dnakov/frida-mcp/) |
 | [flankerhqd/jebmcp](https://github.com/flankerhqd/jebmcp) | 262 | JEB Pro 的简易 MCP server 和 Plugin，已在 Cline、Cursor、RooCode 上测试。需要 Python >= 3.11 和… | [SAFE](https://agentskillshub.top/skill/flankerhqd/jebmcp/) |
 | [kggzs/ApkMCP-Auto](https://github.com/kggzs/ApkMCP-Auto) | 235 | Android 逆向工程工具集合，通过 MCP 连接 Claude 与反编译工具，支持 APK 分析与修改。 | [SAFE](https://agentskillshub.top/skill/kggzs/ApkMCP-Auto/) |
-| [1013503897/jadx-headless-mcp](https://github.com/1013503897/jadx-headless-mcp) | 185 | 无需 GUI、直接基于 jadx-core 构建的 Android APK 静态分析 MCP server。 | [SAFE](https://agentskillshub.top/skill/1013503897/jadx-headless-mcp/) |
+| [1013503897/jadx-headless-mcp](https://github.com/1013503897/jadx-headless-mcp) | 186 | 无需 GUI、直接基于 jadx-core 构建的 Android APK 静态分析 MCP server。 | [SAFE](https://agentskillshub.top/skill/1013503897/jadx-headless-mcp/) |
 | [ZSA233/frida-analykit](https://github.com/ZSA233/frida-analykit) | 159 | Frida 工具包：面向安卓逆向，管理 Frida 环境版本，封装 Agent 常用底层工具，支持 MCP。 | [SAFE](https://agentskillshub.top/skill/ZSA233/frida-analykit/) |
 | [FuzzySecurity/kahlo-mcp](https://github.com/FuzzySecurity/kahlo-mcp) | 141 | 用于 Android 插桩的 Frida MCP 服务器，支持 AI 自主协助 | [SAFE](https://agentskillshub.top/skill/FuzzySecurity/kahlo-mcp/) |
 | [asLody/dexdec](https://github.com/asLody/dexdec) | 139 | 为人类和 AI agent 提供快速、准确的 Android 反编译。 | [SAFE](https://agentskillshub.top/skill/asLody/dexdec/) |
@@ -152,9 +152,9 @@
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
 | [vmoranv/jshookmcp](https://github.com/vmoranv/jshookmcp) | 2.1k | 面向 AI agents 的搜索优先、结合用户配置的逆向工程工作区，一个 MCP server 集成 36 个领域的 735 个工具。 | [SAFE](https://agentskillshub.top/skill/vmoranv/jshookmcp/) |
-| [WhiteNightShadow/wx-mp-mcp](https://github.com/WhiteNightShadow/wx-mp-mcp) | 316 | 微信小程序逆向MCP：在线解包与AI静态分析，还原接口签名和加密，生成本地Node.js脚本，不修改微信进程 | [SAFE](https://agentskillshub.top/skill/WhiteNightShadow/wx-mp-mcp/) |
+| [WhiteNightShadow/wx-mp-mcp](https://github.com/WhiteNightShadow/wx-mp-mcp) | 317 | 微信小程序逆向MCP：在线解包与AI静态分析，还原接口签名和加密，生成本地Node.js脚本，不修改微信进程 | [SAFE](https://agentskillshub.top/skill/WhiteNightShadow/wx-mp-mcp/) |
 | [wuji66dde/jshook-skill](https://github.com/wuji66dde/jshook-skill) | 275 | JS逆向：反混淆、加密识别、CDP调试、Hook注入、反检测 | [SAFE](https://agentskillshub.top/skill/wuji66dde/jshook-skill/) |
-| [amd2g2zz/kunglao-agent](https://github.com/amd2g2zz/kunglao-agent) | 81 | 逆向工程 agent：自行规划分析路径，从原始证据推导每项事实，并通过机械化验证门槛收敛——固件、协议、Web/JS、风控、二进制。 | [SAFE](https://agentskillshub.top/skill/amd2g2zz/kunglao-agent/) |
+| [amd2g2zz/kunglao-agent](https://github.com/amd2g2zz/kunglao-agent) | 82 | 逆向工程 agent：自行规划分析路径，从原始证据推导每项事实，并通过机械化验证门槛收敛——固件、协议、Web/JS、风控、二进制。 | [SAFE](https://agentskillshub.top/skill/amd2g2zz/kunglao-agent/) |
 
 <a id="type-skill"></a>
 ## 🧩 逆向 Skill
@@ -163,14 +163,14 @@
 
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
-| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 45.2k | 逆向/授权渗透测试/安全研究 skill 路由包，支持 AI 路由、按需工具链和知识库，兼容 Claude Code、Kiro、Cursor、Cline等 A… | [SAFE](https://agentskillshub.top/skill/zhaoxuya520/reverse-skill/) |
+| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 45.3k | 逆向/授权渗透测试/安全研究 skill 路由包，支持 AI 路由、按需工具链和知识库，兼容 Claude Code、Kiro、Cursor、Cline等 A… | [SAFE](https://agentskillshub.top/skill/zhaoxuya520/reverse-skill/) |
 | [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | 8.8k | 用于 Android 应用逆向工程的 Claude Code skill | [SAFE](https://agentskillshub.top/skill/SimoneAvogadro/android-reverse-engineering-skill/) |
 | [Dryxio/reagent](https://github.com/Dryxio/reagent) | 2.5k | 用 AI 从编译后的程序重构并验证 C/C++ 代码。 | [SAFE](https://agentskillshub.top/skill/Dryxio/reagent/) |
 | [P4nda0s/reverse-skills](https://github.com/P4nda0s/reverse-skills) | 2.4k | Claude Code 逆向工程 skill 插件 | [SAFE](https://agentskillshub.top/skill/P4nda0s/reverse-skills/) |
 | [2akouwu/reverify](https://github.com/2akouwu/reverify) | 1.4k | AI 提出方案，确定性工具决策，每条结论都以证据对照真实情况核验。事实和上下文在重置后保留。逆向工程用于验证。MCP server + CLI。 | [SAFE](https://agentskillshub.top/skill/2akouwu/reverify/) |
-| [CreditTone/android-reverse-engineering-skill](https://github.com/CreditTone/android-reverse-engineering-skill) | 583 | Codex 专用 Android 逆向分析 skill，支持 APK 等文件反编译，分析 Manifest、网络层和调用链，辅助接口提取与安全研究。 | [SAFE](https://agentskillshub.top/skill/CreditTone/android-reverse-engineering-skill/) |
+| [CreditTone/android-reverse-engineering-skill](https://github.com/CreditTone/android-reverse-engineering-skill) | 586 | Codex 专用 Android 逆向分析 skill，支持 APK 等文件反编译，分析 Manifest、网络层和调用链，辅助接口提取与安全研究。 | [SAFE](https://agentskillshub.top/skill/CreditTone/android-reverse-engineering-skill/) |
 | [schlarpc/re-shell](https://github.com/schlarpc/re-shell) | 541 | 由 Nix 驱动的智能体逆向工程环境 | [CAUTION](https://agentskillshub.top/skill/schlarpc/re-shell/) |
-| [manyuegong33/r0crawl_skills](https://github.com/manyuegong33/r0crawl_skills) | 381 | r0crawl_skills 是用于 Web、Android、iOS、Frida、原生二进制、协议、恶意软件、固件和反分析的逆向工程 skill 集合，支持可… | [SAFE](https://agentskillshub.top/skill/manyuegong33/r0crawl_skills/) |
+| [manyuegong33/r0crawl_skills](https://github.com/manyuegong33/r0crawl_skills) | 382 | r0crawl_skills 是用于 Web、Android、iOS、Frida、原生二进制、协议、恶意软件、固件和反分析的逆向工程 skill 集合，支持可… | [SAFE](https://agentskillshub.top/skill/manyuegong33/r0crawl_skills/) |
 | [miunasu/IDA-Skill](https://github.com/miunasu/IDA-Skill) | 242 | 用 skill 让 AI Agent 使用 IDA Pro 自动分析恶意样本 | [SAFE](https://agentskillshub.top/skill/miunasu/IDA-Skill/) |
 | [vgrichina/re-skill](https://github.com/vgrichina/re-skill) | 189 | Claude Code skill，用于逆向复古游戏：反汇编、注释、提取资源、移植到 Web | [SAFE](https://agentskillshub.top/skill/vgrichina/re-skill/) |
 | [incogbyte/android-reverse-engineering-claude-skill](https://github.com/incogbyte/android-reverse-engineering-claude-skill) | 139 | 用于自动化 Android 应用逆向工程的 Claude Code skill | [SAFE](https://agentskillshub.top/skill/incogbyte/android-reverse-engineering-claude-skill/) |
@@ -188,7 +188,7 @@
 
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
-| [N0zoM1z0/dx-ball](https://github.com/N0zoM1z0/dx-ball) | 109 | 使用 REA 重构 DX-Ball 1.07，由 original-x86 差分测试和固定的 MSVC 字节级精确预言机支持。 | [SAFE](https://agentskillshub.top/skill/N0zoM1z0/dx-ball/) |
+| [N0zoM1z0/dx-ball](https://github.com/N0zoM1z0/dx-ball) | 110 | 使用 REA 重构 DX-Ball 1.07，由 original-x86 差分测试和固定的 MSVC 字节级精确预言机支持。 | [SAFE](https://agentskillshub.top/skill/N0zoM1z0/dx-ball/) |
 | [davehornik/WH3SaveEditor](https://github.com/davehornik/WH3SaveEditor) | 9 | 战锤3存档编辑器 | [SAFE](https://agentskillshub.top/skill/davehornik/WH3SaveEditor/) |
 | [OceanJy333/meteor-mac](https://github.com/OceanJy333/meteor-mac) | 8 | 在 Apple Silicon Mac 上运行《流星蝴蝶剑》Meteor.exe：REA 逆向、AI 编写 Win32/DirectX→Mac 接口；附 Wi… | [SAFE](https://agentskillshub.top/skill/OceanJy333/meteor-mac/) |
 | [NullLabTests/OpenBSD_netcat_REA](https://github.com/NullLabTests/OpenBSD_netcat_REA) | 7 | 使用 REA (Reverse Engineer Anything) + Ghidra 逆向分析 netcat-openbsd 1.234-1 二进制文件 | [SAFE](https://agentskillshub.top/skill/NullLabTests/OpenBSD_netcat_REA/) |
@@ -207,4 +207,4 @@
 
 ---
 
-机器可读版本:[`data/skills.json`](data/skills.json)。生成于 2026-11-25。
+机器可读版本:[`data/skills.json`](data/skills.json)。生成于 2026-11-26。
